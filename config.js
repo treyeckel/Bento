@@ -53,27 +53,27 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/#inbox',
-		},
-		{
-			id: '2',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com',
 		},
 		{
+			id: '2',
+			name: 'Reddit',
+			icon: 'library',
+			link: 'https://reddit.com',
+		},
+		{
 			id: '3',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Spotify',
+			icon: 'music',
+			link: 'https://open.spotify.com',
 		},
 		{
 			id: '4',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Fortera',
+			icon: 'piggy-bank',
+			link: 'https://forteracu.com',
 		},
 		{
 			id: '5',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'VLR.gg',
+			icon: 'gamepad-2',
+			link: 'https://vlr.gg/',
 		},
 	],
 
