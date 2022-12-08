@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/0/#inbox',
 		},
 		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			id: '2',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://www.youtube.com',
 		},
 		{
-			id: '4',
+			id: '3',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
+			id: '4',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com',
 		},
 		{
+			id: '5',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
+		},
+		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 	],
 
@@ -135,47 +135,48 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'user',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitch',
+					link: 'https://twitch.tv',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Amazon',
+					link: 'https://amazon.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'LinkedIn',
+					link: 'https://linkedin.com',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'terminal',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Google Mail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+                {
+					name: 'Google Drive',
+					link: 'https://drive.google.com/drive/my-drive',
 				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+                {
+					name: 'Google Calendar',
+					link: 'https://calendar.google.com/calendar/u/0/r?tab=mc&pli=1',
 				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+                {
+					name: 'Github',
+					link: 'https://github.com/',
 				},
+				
 			],
 		},
 	],
